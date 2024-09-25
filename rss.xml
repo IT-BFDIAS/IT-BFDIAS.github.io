@@ -9,20 +9,20 @@
         <description>
             <![CDATA[ BBC News - News Front Page ]]>
         </description>
-        <link>https://www.bbc.co.uk/news</link>
+        <link>https://www.bfdias.com.br</link>
         <image>
-            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
-            <title>BBC News</title>
-            <link>https://www.bbc.co.uk/news</link>
+            <url>https://bfdias.com.br/wp-content/uploads/logo-bf-agua-esgoto.png</url>
+            <title>B&F Dias</title>
+            <link>https://www.bfdias.com.br</link>
         </image>
         <generator>RSS for Node</generator>
         <lastBuildDate>Wed, 25 Sep 2024 13:27:22 GMT</lastBuildDate>
-        <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://it-bfdias.github.io/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright>
-            <![CDATA[ Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse. ]]>
+            <![CDATA[]]>
         </copyright>
         <language>
-            <![CDATA[ en-gb ]]>
+            <![CDATA[ pt-BR ]]>
         </language>
         <ttl>15</ttl>
         <item>
@@ -30,7 +30,7 @@
                 <![CDATA[ Noticia 1 ]]>
             </title>
             <description>
-                <![CDATA[ Descrição da noticia 1 e imagem (<img src="https://bfdias.com.br/wp-content/uploads/logo-bf-agua-esgoto.png">)]]>
+                <![CDATA[ Descrição da noticia 1 e imagem (<image:image xmlns:image="https://bfdias.com.br/wp-content/uploads/logo-bf-agua-esgoto.png">)]]>
             </description>
             <link>https://www.linknoticia1.com</link>
             <guid isPermaLink="false">https://www.linknoticia1.com</guid>
